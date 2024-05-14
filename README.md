@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nwachukwu
-- 👀 I’m interested in backend development, blockchain, cybersecurity and technical writing 
+- 👀 I’m interested in python development, blockchain, cybersecurity and technical writing 
 - 🌱 I’m currently learning daily
 - 💞️ I’m looking to collaborate on blockchain projects and research
 - 📫 How to reach me ...
