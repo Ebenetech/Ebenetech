@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nwachukwu
-- 👀 I’m interested in python development, blockchain, cybersecurity and technical writing 
+- 👀 I’m interested in Python development, Blockchain, Cybersecurity and Technical writing 
 - 🌱 I’m currently learning daily
-- 💞️ I’m looking to collaborate on blockchain projects and research
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on blockchain, python and research projects 
+- 📫 How to reach me @Ebenezerukezie@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am calm and funny
 
