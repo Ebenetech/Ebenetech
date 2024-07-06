@@ -6,7 +6,8 @@
 - 📫 How to reach me @Ebenezerukezie@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am calm and funny
-- Hello, I'm Ukezi Ebenezer, a Computer Science graduate from Federal University Wukari, Taraba State, Nigeria. 🎓💻
+- Hello, I'm Ukezi Ebenezer, a Technical Writer | Expert in Web3 Technologies | Proficient in Python & Excel | Passionate about UI/UX Design.
+💻
 
 💡 Aspiring Web3 Developer, Blockchain and Cybersecurity Enthusiast, I'm dedicated to crafting modern and dynamic web applications and ensuring they're fortified against digital threats. I firmly believe in the power of project-based learning 🚀📚 to bolster my skills and stay at the forefront of this ever-evolving industry. 
 
@@ -16,7 +17,7 @@
 
 🤝 A fervent team player armed with excellent communication skills, I consider continuous learning and upskilling as my armor in the ever-evolving tech landscape. If you're seeking a highly motivated and skilled Python Developer, Blockchain Enthusiast, Cybersecurity Enthusiast, Technical Writer, and a proponent of project-based learning.
 
-Thank you for taking the time to visit my profile, I eagerly anticipate connecting with fellow professionals who share the same zeal for innovation and technology
+Thank you for taking the time to visit my profile, I eagerly anticipate connecting with fellow professionals who share the same zeal for innovation and technology.
 
 <!---
 Ebenetech/Ebenetech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
