@@ -1,22 +1,25 @@
 👋 Hi, I’m Ukezi Ebenezer Nwachukwu.
-- Technical Writer | Expert in Web3 Technologies | Frontend Developer.
+- Technical Content Writer | Frontend Developer | Turning code into clarity and complex tech into compelling stories. 💻✨
 
-- 👀 I’m interested in writing about Python, Web3, Blockchain, Data Science, and Cybersecurity. 
+👀 I’m interested in writing about Python, Web3, Blockchain, Data Science, and Cybersecurity. 
+
 - 🌱 I’m currently learning daily.
 - 💞️ I’m looking to collaborate on Blockchain, Web3, Data Science, and Cybersecurity writing projects. 
 - 📫 How to reach me: via @Ukeziebenezer@yahoo.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am calm and funny.
 
-- Hello, I'm Ukezi Ebenezer, a Technical writer | Frontend Developer | Passionate about UI/UX Design💻.
+- Hello, I'm Ukezi Ebenezer, a Technical writer | Frontend Developer.
 
-📚 Technical writer with a knack for explaining complex concepts simply
-🖥️ Skilled frontend developer specializing in HTML, CSS, Django and JavaScript
+📚 Technical writer with a knack for explaining complex concepts simply.
+
+🖥️ Frontend developer specializing in HTML, CSS, and JavaScript
+
 🔍 Always seeking to improve code quality and user experience
 
 Key Strengths:
 • Clear, concise technical writing
-• Frontend development with HTML, CSS, Django and JavaScript
+• Frontend development with HTML, CSS, and JavaScript
 • User Manuals, Guides, and Blog posts
 • Code optimization techniques
 
